@@ -1,0 +1,59 @@
+.App{
+    background-color: f0f2f5;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 18%;
+    margin-top: 5%;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+form input{
+    display: block;
+    margin: 15px;
+    height: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    font-size: large;
+    
+}
+
+form a{
+    text-align: center;
+    display: block;
+    margin: 10px;
+    text-decoration: none;
+}
+
+form button{
+    text-align: center;
+    margin: 5px;
+}
+
+.entrar{
+    background-color:#1877f2;
+}
+
+.criar-conta{
+    margin-left: 20%;
+    height: 40px;
+    width: 60%;
+    background-color: green;
+    border-radius: 5px;
+}
+
+
